@@ -6,7 +6,7 @@ Hi there, I'm Jono, a developer, maker and jack of all trades.
 
 - Pronouns: He / Him
 - Contact: jonathonshields@gmail.com
-- Website: jonoshields.com
+- Website: [jonoshields.com](https://jonoshields.com/)
 
 ## :seedling: I’m currently learning
 
